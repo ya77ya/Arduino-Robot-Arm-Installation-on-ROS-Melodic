@@ -72,9 +72,10 @@ source ~/.bashrc
 
 ## Configuring Arduino with ROS
 1. Install [Arduino IDE](https://www.arduino.cc/en/software) in Ubuntu 
-2. After unzipping the folder run the command `$ sudo ./install.sh`
-3. Launch the Arduino IDE
-4. Install the arduino package and ros library
+2. After download IDE finsh the step on the [video](https://www.youtube.com/watch?v=HUwVRGVEgIE)
+3. To show the desktop shortcut watch this [video](https://www.youtube.com/watch?v=-j6Eo-EWH_s)
+4. Launch the Arduino IDE
+5. Install the arduino package and ros library
 
 ![Screenshot from 2022-08-31 10-57-25](https://github.com/ya77ya/Arduino-Robot-Arm-Installation-on-ROS-Melodic/blob/main/Configuring%20Arduino.png)
 
